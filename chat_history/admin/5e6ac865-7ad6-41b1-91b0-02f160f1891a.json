@@ -1,0 +1,15 @@
+{
+  "id": "5e6ac865-7ad6-41b1-91b0-02f160f1891a",
+  "title": "hi",
+  "model": "Qwen3-8B-Q4_1",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Error communicating with LLM Manager: 400 Client Error: BAD REQUEST for url: http://192.168.1.129:8000/v1/chat/completions"
+    }
+  ]
+}
